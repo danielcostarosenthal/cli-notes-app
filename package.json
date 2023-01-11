@@ -1,0 +1,15 @@
+{
+	"name": "cli-notes-app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"dev": "nodemon app.mjs"
+	},
+	"author": "Daniel Costa",
+	"license": "MIT",
+	"dependencies": {
+		"chalk": "^2.4.1",
+		"validator": "^10.8.0"
+	}
+}
